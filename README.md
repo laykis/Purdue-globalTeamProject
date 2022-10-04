@@ -53,7 +53,7 @@ This project is about method that how to detect the crack on structure.
 
 1. Labeling the images of cracks.
 
-2. Training on Yolo detectiong model.
+2. Training on Yolo detection model.
 
 3. Mounting the "Yolo crack detection model" on Raspberry PI.
 
