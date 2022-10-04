@@ -7,8 +7,42 @@
 ![image](https://user-images.githubusercontent.com/73100987/193774540-c151c292-dc6c-4478-8432-c40b6393051f.png)
 ![image](https://user-images.githubusercontent.com/73100987/193774572-fe48ef22-865a-4008-b0c2-8fd8e77b05ae.png)
 
-
 ---
+### **INTRODUCTION**
 
+This project is about method that how to detect the crack on structure.
+
+##### **Team Member**
+
+- *Wonkwnag Univ*
+  - Dohyeon Kim
+    - Writing paper
+    - Data Labeling
+    - Collecting crack image on campus
+  - Kang Lee
+    - Getting results from the program(Adjusting weights file)
+    - Writing paper
+  - Sanha Choi
+    - Writing paper
+    - Data Labeling
+  
+- *Purdue Univ*
+  - Christian Elfreich
+    - Analyze algorithm
+  - Kichang Kang
+    - Writing Paper
+    - Collecting crack image on campus
+  - Evan McClain
+    - Make RaspBerry pi stuff
+    - Writing paper
+  - Wes Johnston
+    - Collecting crack image on campus
+    - Writing paper
+  - Brandon Lee
+    - Collecting crack image on campus
+    - Writing paper
+  - Scott Stevens
+    - Collecting crack image on campus
+    - Writing paper
 
 
