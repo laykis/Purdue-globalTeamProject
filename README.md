@@ -47,7 +47,7 @@ This project is about method that how to detect the crack on structure.
 
 ---
 
-##### **System Overview**
+### **System Overview**
 
 <img width="827" alt="image" src="https://user-images.githubusercontent.com/73100987/193781954-bf9d526e-76e3-4826-8671-e016b68f5013.png">
 
