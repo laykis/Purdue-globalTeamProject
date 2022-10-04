@@ -58,3 +58,47 @@ This project is about method that how to detect the crack on structure.
 3. Mounting the "Yolo crack detection model" on Raspberry PI.
 
 4. You can find the cracks on Structure via Raspberry PI camera.
+
+---
+
+### **Experiment**
+
+##### **First, Second Model**
+
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/73100987/193783604-c5db081e-c11f-4fc0-85d9-f6cec845b9f4.png">
+
+##### **Result**
+
+It detects not only cracks but other objects like walls, concrete, and even humans as a crack. 
+
+It seems that the model trains common and biased characteristics of cracks, so there is a possibility that the model is overfitted. 
+
+A phenomenon in which the model is trained closer to the distribution of training samples than to the actual distribution is overfitting.
+
+##### We have to regularization this model to prevent overfitting.
+
+
+##### **Third Model**
+
+<img width="563" alt="image" src="https://user-images.githubusercontent.com/73100987/193784283-3b5e39d0-b33a-4397-bf26-d37e3508fae7.png">
+
+
+##### **Result**
+
+Third model trains 9,000 images of mixed METU datasets which are not on concrete, SDNET and custom datasets which we take a photo on concrete structures, sidewalks.
+
+Its average data loss rate is kept lower and there is no phenomenon that detects other objects as a crack.
+
+---
+### **Conclusion**
+
+We suggest put this model(Raspberry PI camera) on Drone.
+
+Drone will provide you convenience for detecting cracks on tall building or dangerous place.
+---
+
+### **Certification**
+
+![image](https://user-images.githubusercontent.com/73100987/193785138-b7b44953-20c5-40da-aa3b-044953d31901.png)
+
+
