@@ -45,4 +45,16 @@ This project is about method that how to detect the crack on structure.
     - Collecting crack image on campus
     - Writing paper
 
+---
 
+##### **System Overview**
+
+<img width="827" alt="image" src="https://user-images.githubusercontent.com/73100987/193781954-bf9d526e-76e3-4826-8671-e016b68f5013.png">
+
+1. Labeling the images of cracks.
+
+2. Training on Yolo detectiong model.
+
+3. Mounting the "Yolo crack detection model" on Raspberry PI.
+
+4. You can find the cracks on Structure via Raspberry PI camera.
