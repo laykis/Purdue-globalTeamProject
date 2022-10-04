@@ -1,6 +1,6 @@
 # Purdue-globalTeamProject
 
-### **Warning :** <u><h3>This paper "[Crack detecting method with YOLOv3.pdf](https://github.com/laykis/Purdue-globalTeamProject/blob/master/Crack%20detecting%20method%20with%20YOLOv3.pdf)" is an unpublished paper, and we inform you that it was for recording the experience of writing the paper.</h3></u>
+### **Warning :**<u><h3>This paper "[Crack detecting method with YOLOv3.pdf](https://github.com/laykis/Purdue-globalTeamProject/blob/master/Crack%20detecting%20method%20with%20YOLOv3.pdf)" is an unpublished paper, and we inform you that it was for recording the experience of writing the paper.</h3></u>
 ---  
 ![image](https://user-images.githubusercontent.com/73100987/193774540-c151c292-dc6c-4478-8432-c40b6393051f.png)
 ![image](https://user-images.githubusercontent.com/73100987/193774572-fe48ef22-865a-4008-b0c2-8fd8e77b05ae.png)
