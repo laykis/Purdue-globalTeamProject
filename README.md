@@ -95,6 +95,7 @@ Its average data loss rate is kept lower and there is no phenomenon that detects
 We suggest put this model(Raspberry PI camera) on Drone.
 
 Drone will provide you convenience for detecting cracks on tall building or dangerous place.
+
 ---
 
 ### **Certification**
